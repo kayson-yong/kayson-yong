@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I’m Kayson Yong Chain Shen!👋
 
-<!--
-**kayson-yong/kayson-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-university student  
+💻 Exploring Computer Science, Python, and software development  
+🔐 Interested in Software Engineering & Cybersecurity  
 
-Here are some ideas to get you started:
+### What I’m doing now
+- Learning Python basics
+- Building small projects and sharing them here
+- Improving discipline and consistency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Study Bachelor of Computer Science
+- Build strong programming fundamentals
+- Gain experience through projects and internships in the future
+
+📫 Reach me at: kaysonyongchainshen@gmail.com
+
