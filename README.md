@@ -1,11 +1,11 @@
 ## Hi, I’m Kayson Yong Chain Shen!👋
 
-🎓 Pre-university student  
+🎓 Foundation in IT/Multimedia @ Swinburne Sarawak
 💻 Exploring Computer Science, Python, and software development  
 🔐 Interested in Software Engineering & Cybersecurity  
 
 ### What I’m doing now
-- Learning Python basics
+- Learning intermediate Python
 - Building small projects and sharing them here
 - Improving discipline and consistency
 
